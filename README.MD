@@ -23,7 +23,7 @@ Practicar la independencia de la implementación en los Tipos Abstractos de Dato
 
 El programa principal no deberá realizar ninguna suposición sobre la forma en que está implementado el TAD.
 
-#### Calificación: 9.25 (error corregido)
+#### Cualificación: 9.25 (error corregido)
 
 ## Práctica 2
 
@@ -41,4 +41,4 @@ Implementaciones:
 Cada nodo de la lista ordenada tendrá su propia lista de
 reproducción.
 
-#### Calificación: 10
+#### Cualificación: 10
