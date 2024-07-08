@@ -2,7 +2,7 @@
 
 Prácticas del la asignatura.
 
-###[Guia docente](https://guiadocente.udc.es/guia_docent/index.php?centre=614&ensenyament=614G01&assignatura=614G01006&any_academic=2023_24)
+[Guia docente](https://guiadocente.udc.es/guia_docent/index.php?centre=614&ensenyament=614G01&assignatura=614G01006&any_academic=2023_24)
 
 ## Práctica 0
 
