@@ -1,5 +1,0 @@
-D:/Documents/fic/q_2/Pro_2/practicas/p0/Rational/cmake-build-debug/CMakeFiles/Rational.dir
-D:/Documents/fic/q_2/Pro_2/practicas/p0/Rational/cmake-build-debug/CMakeFiles/Rational_struct.dir
-D:/Documents/fic/q_2/Pro_2/practicas/p0/Rational/cmake-build-debug/CMakeFiles/Rational_pointer.dir
-D:/Documents/fic/q_2/Pro_2/practicas/p0/Rational/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/Documents/fic/q_2/Pro_2/practicas/p0/Rational/cmake-build-debug/CMakeFiles/rebuild_cache.dir

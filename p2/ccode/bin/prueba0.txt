@@ -1,0 +1,19 @@
+01 D user2                             #Error, lista vacía
+02 P user1 song3 2                        #Error, lista vacía
+03 U user1                             #Error, lista vacía
+04 S                                   #Error, lista vacía
+05 N user1 basic                       #new user user1 category basic
+06 N user1 pro                         #Error, ya existe el usuario
+07 U user1
+08 U user1                             #Error, la categoría ya es pro
+09 D user342                           #Error, no existe el usuario
+10 U user3676                          #Error, no existe el usuario
+11 P user43 song2 3                      #Error, no existe el usuario
+12 N user2 basic                           #new user user2 category basic
+13 N user3 basic                           #new user user2 category basic
+14 N user4 pro                            #new user user1 category pro
+15 S
+16 A user1 song1                         	 #add user song1 to user1
+17 S
+18 A user1 song2                         	 #add user song2 to user1
+19 S

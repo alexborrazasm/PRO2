@@ -1,0 +1,54 @@
+01 D user2                             #Error, lista vacía
+02 P user1 song3 2                        #Error, lista vacía
+03 U user1                             #Error, lista vacía
+04 S                                   #Error, lista vacía
+05 N user1 basic                       #new user user1 category basic
+06 N user1 pro                         #Error, ya existe el usuario
+07 U user1
+08 U user1                             #Error, la categoría ya es pro
+09 D user342                           #Error, no existe el usuario
+10 U user3676                          #Error, no existe el usuario
+11 P user43 song2 3                      #Error, no existe el usuario
+12 N user2 basic                           #new user user2 category basic
+13 N user3 basic                           #new user user2 category basic
+14 N user4 pro                            #new user user1 category pro
+15 S
+16 A user2 song1                         	 #add user song1 to user1
+17 S
+18 A user2 song2                         	 #add user song2 to user1
+19 S
+20 A user2 song3
+21 A user2 song4
+22 S
+23 A user4 song12
+24 A user4 song33
+25 S
+26 P user2 song2 10
+27 P user2 song4 40
+28 S
+29 P user4 song33 33
+30 S
+31 R 33
+32 S
+33 A user1 song1
+34 P user1 song1 25
+35 P user1 song1 20
+36 S
+37 R 33
+38 S
+39 A user3 song2
+40 A user3 song3
+41 P user3 song2 5
+42 P user3 song2 35
+43 S
+44 R 33
+45 S
+36 N user5 basic
+37 A user5 song1
+38 N user6 basic
+49 A user6 song2
+50 P user5 song1 45
+51 P user6 song2 40
+52 S
+53 R 20
+54 S

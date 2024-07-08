@@ -1,0 +1,30 @@
+01 N user1 basic                           #new user user1 category basic
+02 A user1 song1                         	 #add user song1 to user1
+03 A user1 song1                         	 #Error, se vuelve a añadir song1
+04 A user1 song2                         	 #add user song2 to user1
+05 A user1 song3                         	 #add user song3 to user1
+06 A user1 song4                         	 #add user song4 to user1
+07 A user1 song5                         	 #add user song5 to user1
+08 A user1 song6                         	 #add user song6 to user1
+09 A user1 song7                         	 #add user song7 to user1
+10 A user1 song8                         	 #add user song8 to user1
+11 A user1 song9                         	 #add user song9 to user1
+12 A user1 song10                         	 #add user song10 to user1
+13 A user1 song11                         	 #add user song11 to user1
+14 A user1 song12                         	 #add user song12 to user1
+15 A user1 song13                         	 #add user song13 to user1
+16 A user1 song14                         	 #add user song14 to user1
+17 A user1 song15                         	 #add user song15 to user1
+18 A user1 song16                         	 #add user song16 to user1
+19 A user1 song17                         	 #add user song17 to user1
+20 A user1 song18                         	 #add user song18 to user1
+21 A user1 song19                         	 #add user song19 to user1
+22 A user1 song20                         	 #add user song20 to user1
+23 A user1 song21                         	 #add user song21 to user1
+24 A user1 song22                         	 #add user song22 to user1
+25 A user1 song23                         	 #add user song23 to user1
+26 A user1 song24                         	 #add user song24 to user1
+27 A user1 song25                         	 #add user song25 to user1
+28 A user1 song26                         	 #Error, no se puede añadir + de 25 canciones
+29 A user1 song27                            #Error tb
+30 S                                         #ENSEÑAME

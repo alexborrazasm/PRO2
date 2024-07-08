@@ -1,0 +1,19 @@
+01 N user1 basic 
+02 S
+03 N user2 basic 
+04 S
+05 N user3 basic
+06 S
+07 N user4 basic
+08 A user1 song1
+09 A user2 song2
+10 A user3 song3
+11 A user4 song4
+12 S
+13 P user1 song1 10
+14 P user2 song2 10
+15 P user3 song3 3
+16 P user4 song4 10
+17 S
+18 R 5
+19 S
