@@ -1,0 +1,5 @@
+/Users/alejandro-romero/Downloads/P2_plantilla_CLion/P2/cmake-build-debug/CMakeFiles/test_song_list.dir
+/Users/alejandro-romero/Downloads/P2_plantilla_CLion/P2/cmake-build-debug/CMakeFiles/test_user_list.dir
+/Users/alejandro-romero/Downloads/P2_plantilla_CLion/P2/cmake-build-debug/CMakeFiles/main.dir
+/Users/alejandro-romero/Downloads/P2_plantilla_CLion/P2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alejandro-romero/Downloads/P2_plantilla_CLion/P2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

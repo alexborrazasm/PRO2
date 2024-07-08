@@ -1,0 +1,18 @@
+# ninja log v5
+0	29	1712230976105807600	CMakeFiles/test_song_list.dir/song_list.c.o	b30e883d0fec0f9f
+0	35	1711984964549994600	CMakeFiles/test_user_list.dir/test_user_list.c.o	87b16cc685b74fde
+0	33	1712230976110135600	CMakeFiles/test_song_list.dir/test_song_list.c.o	d077ebf0d0b81b90
+0	29	1712745552774532000	build.ninja	4fa5b82793e4cf48
+1	62	1712140818052056000	CMakeFiles/test_user_list.dir/user_list.c.o	f4d57ede4538b9c4
+1	31	1712245133866554300	CMakeFiles/main.dir/song_list.c.o	877f38bbda3cd1f0
+33	56	1712230976132840000	/home/alex/Documents/fic/q_2/Pro_2/practicas/p2/Practica/bin/test_song_list	98ce054d6b610ae
+62	96	1712140818086023200	/home/alex/Documents/fic/q_2/Pro_2/practicas/p2/Practica/bin/test_user_list	6f8532abaa937cef
+1	33	1712245133869248000	CMakeFiles/main.dir/user_list.c.o	8026282b4b21d65b
+1	46	1712245323414725400	CMakeFiles/main.dir/main.c.o	e5260458bc63ed76
+46	71	1712245323440788100	/home/alex/Documents/fic/q_2/Pro_2/practicas/p2/Practica/bin/main	953bd27aafd8cc47
+4	35	1712745644992138400	CMakeFiles/test_song_list.dir/song_list.c.o	64d8e511edfa509b
+4	40	1712745644998215500	CMakeFiles/test_song_list.dir/test_song_list.c.o	55246d16a29c6400
+41	69	1712745645025963300	/home/alex/Documents/fic/q_2/Pro_2/practicas/p2/Practica/bin/test_song_list	98ce054d6b610ae
+3	38	1712745659640615600	CMakeFiles/test_user_list.dir/test_user_list.c.o	f12dcc01db9264cf
+3	38	1712745659640591800	CMakeFiles/test_user_list.dir/user_list.c.o	8ceab92d8c553b63
+39	66	1712745659668166700	/home/alex/Documents/fic/q_2/Pro_2/practicas/p2/Practica/bin/test_user_list	6f8532abaa937cef

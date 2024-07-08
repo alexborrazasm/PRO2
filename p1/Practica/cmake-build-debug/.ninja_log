@@ -1,0 +1,8 @@
+# ninja log v5
+1	93	1711892242617943900	build.ninja	28148771986364d8
+0	44	1711892274079236200	CMakeFiles/main.dir/main.c.o	dacadb245f58f902
+0	33	1711892298597045200	CMakeFiles/main.dir/dynamic_list.c.o	37964d9424cd5bf1
+34	57	1711892298620695500	/home/alex/Documents/fic/q_2/Pro_2/practicas/p1/Practica/bin/main	f59438907efa7072
+0	32	1711892302546721200	CMakeFiles/test_lists.dir/dynamic_list.c.o	f290ad2374abbd8
+0	37	1711892302551686800	CMakeFiles/test_lists.dir/test.c.o	558a9cf111701ea5
+37	61	1711892302575966800	/home/alex/Documents/fic/q_2/Pro_2/practicas/p1/Practica/bin/test_lists	8c2392b9a41dfa0c

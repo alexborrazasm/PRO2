@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="77753bd0-2f70-4132-9bac-3fc2ee8e368c" name="Pro_2_refecence_machine" url="http://10.11.28.50">
+        <fileTransfer rootFolder="/home/UDC/101930/linux" accessType="SFTP" host="10.11.28.50" port="22" sshConfigId="030f9bdb-7b96-415b-bb86-7bbe69967b4c" sshConfig="alexandre.bmancebo@udc.es@10.11.28.50:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
